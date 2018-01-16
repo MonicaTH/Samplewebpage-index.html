@@ -121,12 +121,12 @@ section.bodypart {
 }
 @font-face {
     font-family:mm;
-    src: url('assets/fonts/ss.ttf');
+    src: url('ss.ttf');
 
 }
 @font-face {
     font-family:sm;
-    src: url('assets/fonts/kg.ttf');
+    src: url('kg.ttf');
 
 }
 a{ 
