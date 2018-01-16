@@ -126,7 +126,7 @@ section.bodypart {
 }
 @font-face {
     font-family:sm;
-    src: url('kg.ttf');
+    src: url('KG.ttf');
 
 }
 a{ 
