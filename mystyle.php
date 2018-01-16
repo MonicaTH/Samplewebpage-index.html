@@ -51,7 +51,7 @@ background-color: white;
 height: 100vh;
 background-size: cover;
 background-position: 0 0;
-background-image:url(bck3.jpg);
+background-image:url("bck3.jpg");
 }
 .bannertext{
 text-align:center;
